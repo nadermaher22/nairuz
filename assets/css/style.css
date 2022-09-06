@@ -10787,7 +10787,7 @@ textarea:-ms-input-placeholder {
 }
 .coverImg .nairuzCover {
   background-image: url("../img/brand/cover.jpg");
-  height: 650px;
+  height: 500px;
   background-size: cover;
   width: 100%;
 }
